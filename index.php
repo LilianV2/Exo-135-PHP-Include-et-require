@@ -2,7 +2,7 @@
 
 // Premiere ligne
 
-echo "Un fichier php va être inclu à la suite de ce texte ...<br><br>";
+echo "Un fichier php va être inclu à la suite de ce texte ....<br><br>";
 
 // inclure fichier texte.php ci dessous
 
